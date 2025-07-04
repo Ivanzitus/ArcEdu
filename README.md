@@ -31,6 +31,7 @@ Aqui estão as tecnologias que foram empregadas no desenvolvimento deste projeto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+   <img src="https://cdn.simpleicons.org/flask/black" alt="Flask" width="40" height="40"/>
 </p>
 
 ### Ferramentas e Plataformas de Desenvolvimento
