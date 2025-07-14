@@ -5,6 +5,7 @@ O ArcEdu é um projeto inovador desenvolvido por estudantes do IFMS que visa int
 
 - Matheus Colman // Contato: matheus.leonel@estudante.ifms.edu.br
 - Ivan Gabriel // Contato: ivan.rodrigues@estudante.ifms.edu.br
+- Santiago Ariel// contato: santiago.mendoza@estudante.ifms.edu.br
 
 # 👤 Orientadores:
    
