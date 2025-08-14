@@ -45,28 +45,6 @@ Aqui estão as tecnologias que foram empregadas no desenvolvimento deste projeto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
 </p>
 
-<div style="display:flex; justify-content: space-around; flex-wrap: wrap;">
-    <div style="text-align:center; margin: 10px;">
-        <a href="https://github.com/shidemuri" style="text-decoration:none; color: #366fbf; font-weight:bold;">
-            <img src="https://avatars.githubusercontent.com/u/68622956?v=4" alt="Foto de Matheus Colman" style="width:150px; height:150px; border-radius:50%; border: 2px solid #366fbf; object-fit: cover; display: block; margin: 0 auto;">
-            <p style="margin-top: 10px; margin-bottom: 0;">Matheus Colman</p>
-        </a>
-    </div>
-
-    <div style="text-align:center; margin: 10px;">
-        <a href="https://github.com/Wafflezin" style="text-decoration:none; color: #366fbf; font-weight:bold;">
-            <img src="https://avatars.githubusercontent.com/u/219714079?v=4" alt="Foto de Santiago Ariel" style="width:150px; height:150px; border-radius:50%; border: 2px solid #366fbf; object-fit: cover; display: block; margin: 0 auto;">
-            <p style="margin-top: 10px; margin-bottom: 0;">Santiago Ariel</p>
-        </a>
-    </div>
-
-    <div style="text-align:center; margin: 10px;">
-        <a href="https://github.com/settings/profile" style="text-decoration:none; color: #366fbf; font-weight:bold;">
-            <img src="https://avatars.githubusercontent.com/u/194556308?s=400&u=a5f45c1e8c5fb2615d05a796470a62b7f95cb453&v=4" alt="Foto de Ivan Gabriel" style="width:150px; height:150px; border-radius:50%; border: 2px solid #366fbf; object-fit: cover; display: block; margin: 0 auto;">
-            <p style="margin-top: 10px; margin-bottom: 0;">Ivan Gabriel</p>
-        </a>
-    </div>
-</div>
 
 ## 📄 Licença
 
