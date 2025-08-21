@@ -48,7 +48,7 @@ Aqui estão as tecnologias que foram empregadas no desenvolvimento deste projeto
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está licenciado sob a [Licença MIT](./LICENSE).
 
 ---
 
